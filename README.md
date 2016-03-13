@@ -2,6 +2,12 @@
 
 The work-flow is one project for organization your work flow of way easy.
 
+**How Use?**
+
+* set the final goal of project
+* set all tasks apparent
+* set what base tasks for get started the work flow
+
 
 ## Back-end
 
