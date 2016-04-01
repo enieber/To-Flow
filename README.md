@@ -1,6 +1,6 @@
 # To-Flow
 
-The work-flow is one project for organization your work flow of way easy.
+The To-Flow is one project for organization your Work Flow of way easy.
 
 **How Use?**
 
