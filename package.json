@@ -4,18 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "build-docker": "docker build -t to-flow .",
-    "start-docker": "docker run -p 3000:3000 -d to-flow",
-    "docker": "npm run build-docker && npm run start-docker"
+    
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel-preset-react": "^6.5.0",
-    "babelify": "^7.2.0",
-    "boom": "^3.1.2",
     "hapi": "^13.2.2",
-    "joi": "^8.0.5"
- }
+    "boom": "^3.1.2",
+    "joi": "^8.0.5",
+    "lodash": "^4.8.2"
+  }
 }
